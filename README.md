@@ -1,2 +1,3 @@
 # siteweb
-ubuntu
+chmod u+x script.sh
+sudo ./script.sh
